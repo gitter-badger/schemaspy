@@ -1,0 +1,5 @@
+projectKey=org.schemaspy:schemaspy
+serverUrl=https://sonarqube.com
+dashboardUrl=https://sonarqube.com/dashboard/index/org.schemaspy:schemaspy
+ceTaskId=AVv7X8wu6WrUPnBvGFWd
+ceTaskUrl=https://sonarqube.com/api/ce/task?id=AVv7X8wu6WrUPnBvGFWd
